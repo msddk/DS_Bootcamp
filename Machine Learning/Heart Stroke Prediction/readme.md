@@ -5,12 +5,12 @@
 - Implementation of Logistic Regression
 - Cross Validation
 - GridSearchCV
-- ROC-AUC Curves and finding the best threshold
+- ROC-AUC Curves and finding the best threshold</br>
 
 - Implementation of KNN
 - Elbow Method and differen K numbers
 - Cross Validation
 - GridSearchCV
-- ROC-AUC Curves evaluation
+- ROC-AUC Curves evaluation</br>
 
 - Visual comparison of outputs

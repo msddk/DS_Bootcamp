@@ -5,15 +5,14 @@ Introduction to Simple Linear Regression and Multiple Linear Regression.
 - R^2 and Adj. R^2 comparison
 - Model training
 - Model evaluation
+- Some articles.
 
 
 Used modules:
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- yellowbrick
-- scipy
-- scikit-learn
-  - LinearRegression()
-  - Error Metrics
+- `pandas`
+- `numpy`
+- `seaborn`
+- `matplotlib`
+- `yellowbrick`
+- `scipy`
+- `scikit-learn`

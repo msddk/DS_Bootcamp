@@ -5,6 +5,7 @@ Introduction to K-Nearest Neighbors (KNN)
 - Model training and evaluation
 - Precision, Recall, Accuracy, f1-score
 - Classification Report, Confusion Matrix
+- Pipeline
 - Model dump
 - Model testing
 
@@ -15,6 +16,5 @@ Used modules:
 - `seaborn`
 - `matplotlib`
 - `yellowbrick`
-- `scipy`
 - `scikit-learn`
 - `pickle`
